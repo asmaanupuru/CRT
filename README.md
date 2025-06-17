@@ -1,2 +1,3 @@
 # CRT
-Calculator project
+Calculator program in java
+performing crud operations using java in sql
